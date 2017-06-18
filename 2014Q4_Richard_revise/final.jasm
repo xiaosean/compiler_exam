@@ -1,0 +1,18 @@
+class finalexam
+{
+	method public static void main(java.lang.String[])
+	max_stack 30
+	max_locals 30
+	{
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc "IOOOOI"
+		invokevirtual void java.io.PrintStream.println(java.lang.String)
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc "100001"
+		invokevirtual void java.io.PrintStream.println(java.lang.String)
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc 33
+		invokevirtual void java.io.PrintStream.println(int)
+		return
+	}
+}
